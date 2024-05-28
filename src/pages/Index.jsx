@@ -45,6 +45,9 @@ const Index = () => {
             <Link as={RouterLink} to="/tags">
               Tags
             </Link>
+            <Link as={RouterLink} to="/create-post">
+              Create New Post
+            </Link>
           </VStack>
         </Box>
 
